@@ -1,8 +1,4 @@
-const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
-    path = require('path'),
-    webpack = require('webpack'),
-    CompressionWebpackPlugin = require('compression-webpack-plugin'),
-    basicConfig = require('./webpack.config.base.js');
+const basicConfig = require('./webpack.config.base.js');
 
 let config = Object.assign(basicConfig, {
     mode: 'production',
