@@ -1,0 +1,11 @@
+{
+    "presets": [
+        "es2015", "env", "stage-0", "react"
+    ],
+    "plugins": [
+        "react-hot-loader/babel",
+        "transform-runtime",
+        "transform-decorators-legacy",
+        ["styled-components", {"displayName": true, "preprocess": false }]
+    ]
+}
