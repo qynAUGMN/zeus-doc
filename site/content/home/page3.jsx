@@ -22,7 +22,7 @@ class Page3 extends Component {
 
                     <p className="tech-description">Zeus Design 提供了将概念从概念应用到实际应用所需的所有指导，组件和设计资源。我们使用React和Sketch来帮助您完成旅程。</p>
 
-                    <Link to="/articles/get-started" className="btn-large">
+                    <Link to="/docs/articles/get-started" className="btn-large">
                         详细说明
                     </Link>
                 </div>

@@ -19,8 +19,8 @@ class Page1 extends Component {
                     </Link>
 
                     <div className="content-footer">
-                        <p>这里有句简短的描述，可中文可英文，也可中英文对照</p>
-                        <p>Focus on the essential experience</p>
+                        <p>⚛️ React UI component library & design system, </p>
+                        <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;built with styled-components</p>
                     </div>
                 </div>
             </div>
